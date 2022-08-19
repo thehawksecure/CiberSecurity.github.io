@@ -1,2 +1,2 @@
-# CiberSecurity.github.io
+# CiberSecurity
 CiberSecurity
